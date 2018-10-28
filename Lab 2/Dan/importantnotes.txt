@@ -1,0 +1,4 @@
+Using Digits on Ubuntu for Image classification: https://www.youtube.com/watch?v=frNilkk_jto
+VERY promising https://github.com/h2oai/h2o4gpu#installation
+Linear Regression example: https://github.com/h2oai/h2o4gpu/blob/master/examples/py/demos/H2O4GPU_Daal_LinearRegression.ipynb
+GLM https://github.com/h2oai/h2o4gpu/blob/master/examples/py/demos/H2O4GPU_GLM.ipynb
